@@ -2,6 +2,8 @@
 
 namespace fpdf;
 
+use \Exception;
+
 define('FPDF_VERSION','1.81');
 
 class FPDF

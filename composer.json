@@ -1,6 +1,6 @@
 {
     "name": "dqfan2012/fpdf",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "I took the original FPDF library made by Oliver Plathey and refactored it to use PSR-4 autloading. This version corresponds with the fpdf 1.8.1.",
     "type": "library",
     "keywords": ["pdf", "fpdf"],

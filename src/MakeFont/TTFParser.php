@@ -1,6 +1,11 @@
 <?php
-
-namespace fpdf\MakeFont;
+/*******************************************************************************
+* Class to parse and subset TrueType fonts                                     *
+*                                                                              *
+* Version: 1.1                                                                 *
+* Date:    2015-11-29                                                          *
+* Author:  Olivier PLATHEY                                                     *
+*******************************************************************************/
 
 class TTFParser
 {

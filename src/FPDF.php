@@ -1,18 +1,18 @@
 <?php
 
-namespace fpdf;
+namespace FPDF;
 
-use Exception;
+use \Exception;
 
 /*
 * FPDF                                                                         *
 *                                                                              *
-* Version: 1.82                                                                *
+* Version: 1.0.5                                                               *
 * Date:    2019-12-07                                                          *
-* Author:  Olivier PLATHEY
-* Updated: Samuel Stidham
-* Updated Date: 2020-12/31
-* Uupdated For: PSR-4 and Composer
+* Author:  Olivier PLATHEY                                                     *
+* Updated: Samuel Stidham                                                      *
+* Updated Date: 2020-02-15                                                     *
+* Updated For: PSR-4 and Composer                                              *
 */
 
 define('FPDF_VERSION', '1.82');
